@@ -1,3 +1,4 @@
+Fuente: https://pc-solucion.es/linux/solucion-resolv-conf-no-guarda-los-cambios-al-reiniciar/
 sudo su
 cp /etc/resolv.conf /etc/resolv.conf.bak
 
